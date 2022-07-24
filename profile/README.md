@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sevnet-MC&style=flat-square" alt="Sevnet-MC" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sevnet-MC&style=flat-square" alt="Sevnet-EU" /> </p>
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Gamer-Bjoern&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues&bg_color=00000000">
