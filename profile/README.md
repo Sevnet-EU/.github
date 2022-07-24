@@ -12,6 +12,8 @@
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Gamer-Bjoern&theme=react-dark" alt="Sevnet-MC" /> </p>
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Leon-xNexusDev&style=flat-square" alt="Sevnet-MC" /> </p>
+
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Leon-xNexusDev&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues&bg_color=00000000">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-xNexusDev&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&count_private=true">
